@@ -22,7 +22,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"email\": \"ulisses@email.com\",\n    \"password\": \"Senha@Forte123\"\n}",
+					"raw": "{\n    \"email\": \"ulisses@email.com\",\n    \"password\": \"SenhaBruta@123\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -59,7 +59,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"email\": \"ulisses@email.com\",\n    \"password\": \"Senha@Forte123\"\n}",
+					"raw": "{\n    \"email\": \"ulisses@email.com\",\n    \"password\": \"SenhaBruta@123\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
